@@ -1,24 +1,7 @@
-# README
+# railsTuto
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Projeto onde foi seguido o tutorial do link:
+http://guides.rubyonrails.org/v4.2/getting_started.html
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Para entender ruby e ruby on rails
+>>>>>>> 75d0e5db79862c312333b58c57bfb00b79c9c76b
